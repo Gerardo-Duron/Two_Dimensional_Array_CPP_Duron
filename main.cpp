@@ -16,7 +16,7 @@ using namespace std;
 
 //City X, Day X: Temp
 /*
-City 1, Day 1: 53
+City 1, Day 1: 54
 
 City 1, Day 2: 60
 
@@ -34,7 +34,7 @@ City 2, Day 1: 51
 
 City 2, Day 2: 56
 
-City 2, Day 3: 63
+City 2, Day 3: 64
 
 City 2, Day 4: 69
 
